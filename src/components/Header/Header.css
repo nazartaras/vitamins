@@ -1,0 +1,36 @@
+.page-header {
+  height: 100px;
+  background-color: #303c6c;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  position: relative;
+}
+
+.header-title {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.author {
+  font-size: 12px;
+  font-weight: normal;
+}
+
+.link-block {
+  position: absolute;
+  right: 20px;
+}
+
+.link-block a {
+  text-decoration: none;
+  color: white;
+  margin: 50px;
+  font-size: 24px;
+}
+
+.link-block a:hover {
+  color: white;
+  text-decoration: underline;
+}

@@ -1,0 +1,13 @@
+.task3-input-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.delete-input-button{
+    margin-left: 10px;
+}
+
+.add-input-button{
+    margin-top:15px;
+    margin-bottom:40px; 
+}
