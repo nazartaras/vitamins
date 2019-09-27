@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vitamins/static/css/main.efb21908.chunk.css",
+    "main.js": "/vitamins/static/js/main.586bb8e1.chunk.js",
+    "main.js.map": "/vitamins/static/js/main.586bb8e1.chunk.js.map",
+    "runtime-main.js": "/vitamins/static/js/runtime-main.22b5c7da.js",
+    "runtime-main.js.map": "/vitamins/static/js/runtime-main.22b5c7da.js.map",
+    "static/css/2.db06e11c.chunk.css": "/vitamins/static/css/2.db06e11c.chunk.css",
+    "static/js/2.2eaf8210.chunk.js": "/vitamins/static/js/2.2eaf8210.chunk.js",
+    "static/js/2.2eaf8210.chunk.js.map": "/vitamins/static/js/2.2eaf8210.chunk.js.map",
+    "index.html": "/vitamins/index.html",
+    "precache-manifest.58b5eeec0e077fca297e2f3a77bca7a8.js": "/vitamins/precache-manifest.58b5eeec0e077fca297e2f3a77bca7a8.js",
+    "service-worker.js": "/vitamins/service-worker.js",
+    "static/css/2.db06e11c.chunk.css.map": "/vitamins/static/css/2.db06e11c.chunk.css.map",
+    "static/css/main.efb21908.chunk.css.map": "/vitamins/static/css/main.efb21908.chunk.css.map",
+    "static/media/semantic.min.css": "/vitamins/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
